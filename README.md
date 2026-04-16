@@ -1,5 +1,5 @@
 # Mathematische Simulationen
-**Universitätsprojekt – Hochschule München**
+**Universitätsprojekt – Hochschule München**  
 (Korbinian Haberstetter, Tilman Patzak, Ilan Wiesner)
 
 ## Code & Simulation (Instant View)
