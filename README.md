@@ -10,7 +10,7 @@ Sie können die Implementierung und die Ergebnisse direkt im Browser einsehen:
 ausgegeben, das ist weil diese Teile interaktiv wären aber git das statisch lädt)
 
 1.  **[Waldbrand-Simulation anzeigen (Jupyter Notebook)](Waldbrandsimulation/Waldbrand_Notebook_Haberstetter_Wiesner_Patzak.ipynb)** | [DOKU](Waldbrandsimulation/Waldbrand_Dokumentation_Haberstetter_Wiesner_Patzak.pdf)
-2.  **[Populations-Analyse anzeigen (Jupyter Notebook)](Populationsdynamiken/Populationsdynamiken_Notebook_Haberstetter_Patzak_Wiesner.ipynb)** | [DOKU POPULATIONSDYNAMIKEN](Populationsdynamiken/Populationsdynamiken_Dokumentation_Haberstetter_Patzak_Wiesner.pdf)
+2.  **[Populations-Analyse anzeigen (Jupyter Notebook)](Populationsdynamiken/Populationsdynamiken_Notebook_Haberstetter_Patzak_Wiesner.ipynb)** | [DOKU](Populationsdynamiken/Populationsdynamiken_Dokumentation_Haberstetter_Patzak_Wiesner.pdf)
 
 ---
 
