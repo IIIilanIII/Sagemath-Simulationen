@@ -6,11 +6,11 @@
 
 GitHub unterstützt das native Rendering von Jupyter Notebooks.  
 Sie können die Implementierung und die Ergebnisse direkt im Browser einsehen:  
-(Es wird beim Waldbrand zwei mal `Widget Javascript not detected.  It may not be installed or enabled properly. Reconnecting the current kernel may help.`  
-ausgegeben, das ist weil diese Teile interaktiv wären aber git das statisch lädt)
 
 1.  **[Waldbrand-Simulation anzeigen (Jupyter Notebook)](Waldbrandsimulation/Waldbrand_Notebook_Haberstetter_Wiesner_Patzak.ipynb)** | [DOKU](Waldbrandsimulation/Waldbrand_Dokumentation_Haberstetter_Wiesner_Patzak.pdf)
 2.  **[Populations-Analyse anzeigen (Jupyter Notebook)](Populationsdynamiken/Populationsdynamiken_Notebook_Haberstetter_Patzak_Wiesner.ipynb)** | [DOKU](Populationsdynamiken/Populationsdynamiken_Dokumentation_Haberstetter_Patzak_Wiesner.pdf)
+
+> **Technischer Hinweis:** > Die im Waldbrand-Notebook angezeigten Meldungen (*Widget Javascript not detected*) resultieren aus dem statischen Rendering durch GitHub. Die zugrundeliegenden `@interact`-Module zur dynamischen Parametersteuerung erfordern eine aktive Kernel-Verbindung (z.B. lokale SageMath-Umgebung). Sämtliche Code-Logik und statisch generierten Visualisierungen sind davon unberührt.
 
 ---
 
